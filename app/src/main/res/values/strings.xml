@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">bags</string>
+    <string name="name">Назва: </string>
+    <string name="composition">Склад: </string>
+    <string name="price">Ціна: </string>
+    <string name="button">Далі</string>
+</resources>
